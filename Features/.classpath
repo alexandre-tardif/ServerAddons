@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/Desktop/Bukkit Related/Lib/Bukkit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/Desktop/Bukkit Related/McMyAdmin 2 -- 1.1/Minecraft/plugins/Heroes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/Desktop/Bukkit Related/McMyAdmin 2 -- 1.1/Minecraft/plugins/Worldguard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/Desktop/Bukkit Related/McMyAdmin 2 -- 1.1/Minecraft/plugins/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/Desktop/Bukkit Related/McMyAdmin 2 -- 1.1/Minecraft/plugins/DisguiseCraft.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/Desktop/Bukkit Related/McMyAdmin 2 -- 1.1/Minecraft/plugins/SGTitles.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/Desktop/Bukkit Related/McMyAdmin 2 -- 1.1/Minecraft/plugins/Herochat.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/Desktop/Bukkit Related/McMyAdmin 2 -- 1.1/Minecraft/plugins/SpoutPlugin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/Desktop/plugins/MobArena.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
